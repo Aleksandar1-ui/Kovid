@@ -1,0 +1,14 @@
+
+  GRAD 		 NOVI 	 OZDRAVENI 
+ Skopje		89	      6
+ Tetovo		11	      4
+ Ohrid		8	      6
+ Kumanovo	     4	      1
+ Struga		3	      1
+ Stip		     2	      0
+ Prilep		2	      0
+ Strumica	     2	      1
+ Veles		1	      5
+ Gostivar	     1	      0
+ Kicevo		1	      0
+ Resen		1	      0
